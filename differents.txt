@@ -1,3 +1,5 @@
 here i will store different stuff about this wordpress website
 
 add different colors to this theme as soon as possible and install php into the device
+
+JUST ANOTHER COMMIT TO REPOSITORY
